@@ -1,0 +1,10 @@
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\Sample.exe
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\Sample.pdb
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\AutoRepo.dll
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\Simple.Data.Ado.dll
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\Simple.Data.dll
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\Simple.Data.SqlServer.dll
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\bin\Debug\AutoRepo.pdb
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\obj\x86\Debug\Sample.exe
+C:\Users\burkhartt.DIGITALEV\Documents\Visual Studio 2010\Projects\AutoRepo\Sample\obj\x86\Debug\Sample.pdb

@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B899599A-4271-4A7D-9AD4-B74976279E04" ModuleId="AutoRepo" />
+  <Module PersistentId="0402A791-8227-4AD8-B2FD-287F67FC2F28" ModuleId="AutoRepo.Test" />
+  <Module PersistentId="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664" ModuleId="Sample" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+</Modules>

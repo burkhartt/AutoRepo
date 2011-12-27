@@ -1,0 +1,247 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:Cast.cs/l:C!?_Application?L2R?L2R?L2R?Cast.cs" caret="176" fromTop="9" />
+      <File id="0402A791-8227-4AD8-B2FD-287F67FC2F28/f:Class1.cs" caret="63" fromTop="6" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="262" fromTop="12" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1636" fromTop="35" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="33" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="20" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="24" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="32" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="24" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="28" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="19" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="27" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="31" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="22" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="19" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="111" fromTop="14" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="778" fromTop="20" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1613" fromTop="23" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="632" fromTop="21" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="496" fromTop="14" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="917" fromTop="29" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="312" fromTop="7" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="299" fromTop="12" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1349" fromTop="24" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="149" fromTop="6" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="398" fromTop="16" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1525" fromTop="15" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="692" fromTop="3" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1332" fromTop="12" />
+      <File id="CC39A6AB-CACB-405B-8CD8-D3D4AFAAE664/f:Class1.cs" caret="414" fromTop="16" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1184" fromTop="25" />
+      <File id="B899599A-4271-4A7D-9AD4-B74976279E04/f:Class1.cs" caret="1332" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="19" />
+      <Item value="object" priority="5" />
+      <Item value="this" priority="2" />
+      <Item value="ObjectMapper`0" priority="0" />
+      <Item value="var" priority="22" />
+      <Item value="System" priority="1" />
+      <Item value="Lazy" priority="3" />
+      <Item value="T`0" priority="9" />
+      <Item value="instanceOfClass" priority="1" />
+      <Item value="new" priority="13" />
+      <Item value="ComplexProperty" priority="3" />
+      <Item value="a" priority="3" />
+      <Item value="SimpleProperty" priority="2" />
+      <Item value="foreach" priority="3" />
+      <Item value="in" priority="2" />
+      <Item value="properties" priority="3" />
+      <Item value="property" priority="10" />
+      <Item value="instanceOfTargetClass" priority="4" />
+      <Item value="DynamicObjectToCreate`0" priority="0" />
+      <Item value="propertyToAdd" priority="0" />
+      <Item value="return" priority="10" />
+      <Item value="typeof" priority="1" />
+      <Item value="Convert`0" priority="3" />
+      <Item value="class" priority="4" />
+      <Item value="string" priority="4" />
+      <Item value="ClassWithNoProperties`0" priority="1" />
+      <Item value="ClassWithProperties`0" priority="0" />
+      <Item value="classWithProperties" priority="0" />
+      <Item value="null" priority="5" />
+      <Item value="else" priority="0" />
+      <Item value="conversionType" priority="9" />
+      <Item value="provider" priority="0" />
+      <Item value="GetProperty`1" priority="1" />
+      <Item value="override" priority="1" />
+      <Item value="DynamicProperty" priority="3" />
+      <Item value="Properties" priority="0" />
+      <Item value="as" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="listOfProperties" priority="1" />
+      <Item value="propertyToAddToList" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="InvalidOperationException" priority="0" />
+      <Item value="GetProperties`0" priority="0" />
+      <Item value="IServiceProvider`0" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="myProperties" priority="3" />
+      <Item value="default" priority="1" />
+      <Item value="instanceOfNewObject" priority="2" />
+      <Item value="newObject" priority="1" />
+      <Item value="dynamic" priority="6" />
+      <Item value="type" priority="0" />
+      <Item value="TDatabase`0" priority="2" />
+      <Item value="where" priority="1" />
+      <Item value="Simple" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Database`0" priority="1" />
+      <Item value="TDynamic`0" priority="0" />
+      <Item value="db" priority="1" />
+      <Item value="abstract" priority="0" />
+      <Item value="GetDatabase`0" priority="3" />
+      <Item value="TViewModel`0" priority="9" />
+      <Item value="tableName" priority="2" />
+      <Item value="id" priority="0" />
+      <Item value="virtual" priority="1" />
+      <Item value="IEnumerable`0" priority="1" />
+      <Item value="GetTableName`0" priority="1" />
+      <Item value="field" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="CoursesRepository`0" priority="0" />
+      <Item value="coursesRepository" priority="8" />
+      <Item value="using" priority="0" />
+      <Item value="Simple.Data" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="Func" priority="2" />
+      <Item value="fieldComparison" priority="2" />
+      <Item value="viewModel" priority="0" />
+      <Item value="Model" priority="5" />
+      <Item value="Expression" priority="5" />
+      <Item value="Expression&lt;CategoriesModel&gt;" priority="0" />
+      <Item value="num" priority="1" />
+      <Item value="ParameterExpression`0" priority="2" />
+      <Item value="bool" priority="1" />
+      <Item value="asdf" priority="0" />
+      <Item value="TModel`0" priority="0" />
+      <Item value="Expression&lt;Func&lt;CategoriesModel,bool&gt;&gt;" priority="0" />
+      <Item value="CategoriesModel`0" priority="5" />
+      <Item value="func" priority="2" />
+      <Item value="BinaryExpression`0" priority="1" />
+      <Item value="binaryExpression" priority="2" />
+      <Item value="Linq" priority="0" />
+      <Item value="DynamicExpression`0" priority="0" />
+      <Item value="MemberExpression`0" priority="0" />
+      <Item value="left" priority="2" />
+      <Item value="fieldName" priority="0" />
+      <Item value="ConstantExpression`0" priority="1" />
+      <Item value="operation" priority="0" />
+      <Item value="variable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperties`0" priority="2" />
+      <Item value="GetProperty`0" priority="0" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Lazy`1">
+      <Item value="GetType`0" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoRepo.ComplexProperty`1">
+      <Item value="AddProperty`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoRepo.DynamicObjectToCreate">
+      <Item value="AddProperty`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="Name" priority="4" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="PropertyType" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+      <Item value="GetConstantValue`0" priority="0" />
+      <Item value="IsDefined`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ChangeType`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoRepo.DynamicProperty`1">
+      <Item value="HasProperty`0" priority="1" />
+      <Item value="GetValue`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Any`1" priority="0" />
+      <Item value="Single`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Simple.Data.Database">
+      <Item value="OpenConnection`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sample.CoursesRepository">
+      <Item value="FindAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Simple.Data.IDatabaseOpener">
+      <Item value="OpenConnection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sample.CategoriesRepository">
+      <Item value="FindAllByThisFieldAndValue`0" priority="0" />
+      <Item value="ModelInstance" priority="0" />
+      <Item value="Model" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sample.CategoriesModel">
+      <Item value="Sequence" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.Expression`1">
+      <Item value="Body" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Expressions.Expression">
+      <Item value="Parameter`0" priority="0" />
+      <Item value="Field`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.BinaryExpression">
+      <Item value="Left" priority="1" />
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.ParameterExpression">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.MemberExpression">
+      <Item value="Member" priority="0" />
+      <Item value="Expression" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
